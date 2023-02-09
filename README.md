@@ -1,4 +1,4 @@
-<h1 align="center">Hello, My Name Is Anh Thư, Nice To Meet You 💙🐢</h1>
+<!-- <h1 align="center">Hello, My Name Is Anh Thư, Nice To Meet You 💙🐢</h1> -->
 
 <b>📝About me:</b>
 - I'm from <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/null/external-vietnam-flags-vitaliy-gorbachev-flat-vitaly-gorbachev.png" style="width:20px; height:20px;">
@@ -48,7 +48,9 @@
   <a href="https://getbootstrap.com">
     <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
   </a>
+  <!-- 
   <a href="https://reactjs.org">
     <img src="https://img.icons8.com/color/48/null/react-native.png"/>
   </a>
+  -->
 </div>
