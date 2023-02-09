@@ -2,7 +2,7 @@
 
 <b>📝About me:</b>
 - I'm from <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/null/external-vietnam-flags-vitaliy-gorbachev-flat-vitaly-gorbachev.png" style="width:20px; height:20px;">
-- I'm a student of <img src="https://img.icons8.com/fluency/48/null/school-building.png" style="width:20px; height:20px;"> [Ho Chi Minh City University of Foreign Languages and Information Technology](https://huflit.edu.vn) (HUFLIT)
+- I'm a student of <img src="https://img.icons8.com/fluency/48/null/school-building.png" style="width:20px; height:20px;" alt="school"> [Ho Chi Minh City University of Foreign Languages and Information Technology](https://huflit.edu.vn) (HUFLIT)
 - I'm currently studying 💻 Software Engineering.
 <p> p/s: I want to learn more knowledge about game development <p>
 
@@ -16,5 +16,39 @@
   </a>
   <a href="mailto:0918051090t@gmail.com">
     <img src="https://img.icons8.com/fluency/48/null/gmail.png">
+  </a>
+</div>
+
+<h2>🏃 My skills:</h2>
+<div>
+  <a href="https://visualstudio.microsoft.com">
+    <img src="https://img.icons8.com/fluency/48/null/visual-studio.png"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com">
+    <img src="https://img.icons8.com/fluency/48/null/visual-studio-code-2019.png"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">
+    <img src="https://img.icons8.com/color/48/null/microsoft-sql-server.png"/>
+  </a>
+  <a href="https://trello.com">
+    <img src="https://img.icons8.com/color/48/null/trello.png"/>
+  </a>
+  <a href="https://www.adobe.com/">
+    <img src="https://img.icons8.com/color/48/null/adobe-photoshop--v1.png"/>
+  </a>
+  <a href="https://www.adobe.com/">
+    <img src="https://img.icons8.com/color/48/null/adobe-xd--v1.png"/>
+  </a>
+  <a href="https://wikipedia.org/wiki/HTML">
+    <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
+  </a>
+  <a href="https://wikipedia.org/wiki/CSS">
+    <img src="https://img.icons8.com/fluency/48/null/css3.png"/>
+  </a>
+  <a href="https://getbootstrap.com">
+    <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
+  </a>
+  <a href="https://reactjs.org">
+    <img src="https://img.icons8.com/color/48/null/react-native.png"/>
   </a>
 </div>
