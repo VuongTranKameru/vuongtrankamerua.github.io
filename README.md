@@ -3,7 +3,7 @@
 <b>📝About me:</b>
 - I'm from <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/null/external-vietnam-flags-vitaliy-gorbachev-flat-vitaly-gorbachev.png" style="width:20px; height:20px;">
 - I'm a student of <img src="https://img.icons8.com/fluency/48/null/school-building.png" style="width:20px; height:20px;" alt="school"> [Ho Chi Minh City University of Foreign Languages and Information Technology](https://huflit.edu.vn) (HUFLIT)
-- I'm currently studying 💻 Software Engineering.
+- I'm currently studying <img src="https://img.icons8.com/dusk/64/null/monitor--v1.png" style="width:20px; height:20px;"> Software Engineering.
 <p> p/s: I want to learn more knowledge about game development <p>
 
 <h2>☎️ Want to contact with me?</h2>
@@ -54,3 +54,20 @@
   </a>
   -->
 </div>
+
+<h2>📁 My projects:</h2>
+<table>
+  <tr>
+    <th colspan="3">Website quản lý bán sách</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/><td>
+    <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/><td>
+    <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/><td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/><td>
+    <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/><td>
+    <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/><td>
+  </tr>
+</table>
