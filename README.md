@@ -58,16 +58,16 @@
 <h2>📁 My projects:</h2>
 <table>
   <tr>
-    <th colspan="3">Website quản lý bán sách</th>
+    <th colspan="3" align="left">Website quản lý bán sách</th>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/><td>
-    <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/><td>
-    <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/><td>
+    <td>a</td>
+    <td>b</td>
+    <td>c</td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/><td>
-    <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/><td>
-    <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/><td>
+    <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/></td>
+    <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/></td>
+    <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/></td>
   </tr>
 </table>
