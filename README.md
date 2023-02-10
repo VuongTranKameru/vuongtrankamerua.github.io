@@ -58,7 +58,7 @@
 <h2>📁 My projects:</h2>
   <table>
   <tr>
-    <th colspan="3" align="left">Website quản lý bán sách <a href="https://github.com/VuongTranKameru/BanSachLaKho/blob/master/BaoCaoLTWeb%2B/2_WebBanSach.pdf">.PDF</a> <br> [https://github.com/VuongTranKameru/BanSachLaKho](https://github.com/VuongTranKameru/BanSachLaKho) <br></th>
+    <th colspan="3" align="left">Website quản lý bán sách <a href="https://github.com/VuongTranKameru/BanSachLaKho/blob/master/BaoCaoLTWeb%2B/2_WebBanSach.pdf">.PDF</a> <br> <a href="https://github.com/VuongTranKameru/BanSachLaKho">https://github.com/VuongTranKameru/BanSachLaKho</a></th>
   </tr>
   <tr>
     <td><img src="/image/pjlakho(1).png" style="width:144px;"></td>
