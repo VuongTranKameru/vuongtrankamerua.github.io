@@ -66,9 +66,9 @@
     <td><img src="/image/pjlakho(3).png" style="width:144px;"></td>
   </tr>
   <tr>
-    <td><img src="/image/pjlakho(4).png"></td>
-    <td><img src="/image/pjlakho(5).png"></td>
-    <td><img src="/image/pjlakho(6).png"></td>
+    <td><img src="/image/pjlakho(4).png" style="width:144px;"></td>
+    <td><img src="/image/pjlakho(5).png" style="width:144px;"></td>
+    <td><img src="/image/pjlakho(6).png" style="width:144px;"></td>
   </tr>
 </table>
 
