@@ -56,23 +56,21 @@
 </div>
 
 <h2>📁 My projects:</h2>
-<div class="table-responsive">
   <table>
-    <tr>
-      <th colspan="3" align="left">Website quản lý bán sách <a href="https://github.com/VuongTranKameru/BanSachLaKho/blob/master/BaoCaoLTWeb%2B/2_WebBanSach.pdf">.PDF</a> <br> https://github.com/VuongTranKameru/BanSachLaKho <br></th>
-    </tr>
-    <tr>
-      <td><img src="/image/pjlakho(1).png"></td>
-      <td><img src="/image/pjlakho(2).png"></td>
-      <td><img src="/image/pjlakho(3).png"></td>
-    </tr>
-    <tr>
-      <td><img src="/image/pjlakho(4).png"></td>
-      <td><img src="/image/pjlakho(5).png"></td>
-      <td><img src="/image/pjlakho(6).png"></td>
-    </tr>
-  </table>
-</div>
+  <tr>
+    <th colspan="3" align="left">Website quản lý bán sách <a href="https://github.com/VuongTranKameru/BanSachLaKho/blob/master/BaoCaoLTWeb%2B/2_WebBanSach.pdf">.PDF</a> <br> [https://github.com/VuongTranKameru/BanSachLaKho](https://github.com/VuongTranKameru/BanSachLaKho) <br></th>
+  </tr>
+  <tr>
+    <td><img src="/image/pjlakho(1).png" style="width:144px;"></td>
+    <td><img src="/image/pjlakho(2).png" style="width:144px;"></td>
+    <td><img src="/image/pjlakho(3).png" style="width:144px;"></td>
+  </tr>
+  <tr>
+    <td><img src="/image/pjlakho(4).png"></td>
+    <td><img src="/image/pjlakho(5).png"></td>
+    <td><img src="/image/pjlakho(6).png"></td>
+  </tr>
+</table>
 
 <!--<table>
   <tr>
@@ -87,5 +85,10 @@
     <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/></td>
     <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/></td>
     <td><img src="https://img.icons8.com/dusk/64/null/turtle.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="/image/pjlakho(1).png"></td>
+    <td><img src="/image/pjlakho(2).png"></td>
+    <td><img src="/image/pjlakho(3).png"></td>
   </tr>
 </table>-->
