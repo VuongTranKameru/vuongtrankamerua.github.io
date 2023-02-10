@@ -1,5 +1,10 @@
+# Build settings
+markdown: redcarpet
 remote_theme: pages-themes/merlot@v0.2.0
 plugins:
     - jekyll-remote-theme
-name: Vuong Tran Kameru
+
+baseurl: /vuongtrankameru
+
+name: 'Vuong Tran Kameru'
 title: <null>
