@@ -61,14 +61,14 @@
     <th colspan="3" align="left">Website quản lý bán sách <a href="https://github.com/VuongTranKameru/BanSachLaKho/blob/master/BaoCaoLTWeb%2B/2_WebBanSach.pdf">.PDF</a> <br> https://github.com/VuongTranKameru/BanSachLaKho <br></th>
   </tr>
   <tr>
-    <td><img src="https://github.com/VuongTranKameru/vuongtrankameru.github.io/blob/main/image/pjlakho(1).png"></td>
-    <td><img src="https://github.com/VuongTranKameru/vuongtrankameru.github.io/blob/main/image/pjlakho(2).png"></td>
-    <td><img src="https://github.com/VuongTranKameru/vuongtrankameru.github.io/blob/main/image/pjlakho(3).png"></td>
+    <td><img src="/image/pjlakho(1).png"></td>
+    <td><img src="/image/pjlakho(2).png"></td>
+    <td><img src="/image/pjlakho(3).png"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/VuongTranKameru/vuongtrankameru.github.io/blob/main/image/pjlakho(4).png"></td>
-    <td><img src="https://github.com/VuongTranKameru/vuongtrankameru.github.io/blob/main/image/pjlakho(5).png"></td>
-    <td><img src="https://github.com/VuongTranKameru/vuongtrankameru.github.io/blob/main/image/pjlakho(6).png"></td>
+    <td><img src="/image/pjlakho(4).png"></td>
+    <td><img src="/image/pjlakho(5).png"></td>
+    <td><img src="/image/pjlakho(6).png"></td>
   </tr>
 </table>
 
