@@ -68,7 +68,7 @@
   <tr>
     <td><img src="https://github.com/VuongTranKameru/vuongtrankameru.github.io/blob/main/image/pjlakho(4).png"></td>
     <td><img src="https://github.com/VuongTranKameru/vuongtrankameru.github.io/blob/main/image/pjlakho(5).png"></td>
-    <td>[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"</td>
+    <td><img src="https://github.com/VuongTranKameru/vuongtrankameru.github.io/blob/main/image/pjlakho(6).png"></td>
   </tr>
 </table>
 
