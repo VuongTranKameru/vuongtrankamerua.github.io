@@ -17,7 +17,6 @@
   <a href="mailto:0918051090t@gmail.com">
     <img src="https://img.icons8.com/fluency/48/null/gmail.png">
   </a>
-    <img src="https://img.icons8.com/?size=100&id=gprwo421aVmU&format=png&color=000000">
 </div>
 
 <h2>🏃 My skills:</h2>
